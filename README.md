@@ -15,6 +15,6 @@ Testes para validar e garantir a qualidade e o desempenho da aplicação, Simula
 
 
 ## Notas Gerais
-- 1 Teste Automatizado em Cypress
+- 1º Teste Automatizado em Cypress
 - Em alguma versão futura usara um Cypress SlowDown
 - Há descrições na aplicação para o melhor entendimento
