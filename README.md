@@ -1,5 +1,5 @@
 ## Lacrei Saúde Automação
-Esse é um repositório que contém a automação de alguns testes de E2E (end-2-end) de um software denominado Lacrei Saúde. Os sub-tópicos abaixo descrevem algumas decisões tomadas na estruturação do projeto
+Esse é um repositório que contém a automação de alguns testes de E2E (end-2-end) de um software WEB da Lacrei Saúde. Os sub-tópicos abaixo descrevem algumas decisões tomadas na estruturação do projeto
 
 
 ## Tecnologias Usadas
