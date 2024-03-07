@@ -8,6 +8,8 @@ Esse é um repositório que contém a automação de alguns testes de E2E (end-2
 [Node.js (nodejs.org)](https://nodejs.org/en)
 - Cypress
 [Testing Frameworks for Javascript | Write, Run, Debug | Cypress](https://www.cypress.io/)
+- Visual Studio Code
+https://code.visualstudio.com/
 
 
 ## Testes Automatizados
