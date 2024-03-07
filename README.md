@@ -18,3 +18,4 @@ Testes para validar e garantir a qualidade e o desempenho da aplicação, Simula
 - 1º Teste Automatizado em Cypress
 - Essa versão veio com um Cypress SlowDown para simular o tempo de resposta de um usuário (user think time)
 - Há descrições na aplicação para o melhor entendimento
+- Utilizei o navegador Electron para automatizar os testes 
