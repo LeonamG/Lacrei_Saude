@@ -1,7 +1,5 @@
 ///  <reference types="Cypress"/>
-import { slowCypressDown } from 'cypress-slow-down'
 
-slowCypressDown(1500)
 
 
 describe('teste E2E - Pesquisando e contactando Pessoa Profissional', () => {
